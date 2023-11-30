@@ -14,6 +14,12 @@ body {
   overflow-y: scroll;
 }
 
+h1 {
+    font-size: 15em;
+    color: white;
+}
+
+
 /* Panel Defaults */
 .panel {
   width: 100%;
@@ -43,11 +49,25 @@ body {
 }
 
 .one {
-  background-image: url(https://cdn.nba.com/manage/2018/10/derrick-rose-mvp-2011.jpg);
+  background-image: url(Derrick Rose ACL Knee Injury - 4 28 2012 2012 NBA Playoffs Game 1.mp4);
+}
+
+.back-video {
+    position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 }
 
 .two {
   background-image: url("https://picsum.photos/1600/800?random=2");
+  text-align: center;
 }
 
 .three {
