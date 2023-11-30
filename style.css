@@ -1,6 +1,8 @@
-@import url('https://www.fontshare.com/');
+@import url(clash-display.css);
+
 html,
 body {
+    font-family: 'ClashDisplay-Regular';
     margin: 0;
   height: 100%;
   -webkit-overflow-scrolling: touch;
@@ -10,10 +12,6 @@ body {
 body {
   overflow-x: hidden;
   overflow-y: scroll;
-}
-
-h1 p {
-    font-family: 'ClashDisplay-Regular';
 }
 
 /* Panel Defaults */
