@@ -41,6 +41,7 @@ h1 {
   font-size: 5em;
   top: 50px;
   right: 50px;
+  text-shadow: 1px 4px black ;
 }
 
 
@@ -111,6 +112,7 @@ p {
   position: absolute;
   right: -375px;
   top: 175px;
+  text-shadow: 1px 4px black;
 }
 
 /* Container for Background Images  */
