@@ -20,11 +20,66 @@ h1 {
 }
 
 .title {
-  color: black;
+  position:absolute;
+  font-size: 5em;
+  top: 50px;
+  right: 50px;
 }
 
 section p {
+position: relative;
+text-align: center;
+bottom: 200px;
+}
 
+.rose {
+  height:300px;
+  width:300px;
+  position:fixed;
+  left:-50px;
+  top:-100px;
+  transform:rotate(180deg);
+}
+
+.rose-2 {
+  height:300px;
+  width:300px;
+  position:fixed;
+  left:50px;
+  top:-175px;
+  transform:rotate(180deg);
+}
+
+.rose-3 {
+  height:300px;
+  width:300px;
+  position:fixed;
+  left:-150px;
+  top:-25px;
+  transform:rotate(180deg);
+}
+
+.rose-4 {
+  height:300px;
+  width:300px;
+  position:fixed;
+  right:-50px;
+  bottom:-100px;
+}
+
+.rose-5 {
+  height:300px;
+  width:300px;
+  position:fixed;
+  right:50px;
+  bottom:-175px;
+}
+.rose-6 {
+  height:300px;
+  width:300px;
+  position:fixed;
+  right:-150px;
+  bottom:-25px;
 }
 
 /* Panel Defaults */
@@ -42,6 +97,15 @@ section p {
   padding: 3em;
 }
 
+.panel p{
+  color: white;
+  font-size: 2.5em;
+  position: absolute;
+  right: 55px;
+  top: 155px;
+
+}
+
 /* Container for Background Images  */
 .bg {
   position: absolute;
@@ -55,18 +119,8 @@ section p {
   background-repeat: no-repeat;
 }
 
-.box {
-  height: 100px;
-  width: 1000px;
-  padding: 20px;
-  margin: 50px;
-  border: 10px solid black;
-  border-radius: 100px;
-}
-
-
 .one {
-  background-image: url("https://picsum.photos/1600/800?random=2");
+  background-image: url(DerrickRose2-1-1568x882.webp);
   text-align: center;
 }
 
