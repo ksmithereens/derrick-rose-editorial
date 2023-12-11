@@ -9,3 +9,7 @@
 *[Only GFX] (https://www.onlygfx.com/5-flower-red-rose-png-image-transparent/)
 *[NBA] (https://www.nba.com/news/derrick-rose-back-in-chicago)
 *[Red Bubble] (https://www.redbubble.com/i/poster/Derrick-Rose-Logo-by-elizaldesigns/43348400.LVTDI)
+*[YouTube] (https://youtu.be/pAIqHc31FS8?si=P527gwTJFA_2W_-w)
+*[YouTube] (https://youtu.be/BDhWjpfxxAg?si=5jP7pSYrGtTeWJjs)
+*[YouTube] (https://www.youtube.com/watch?v=pM8BNuCgQ3s)
+*[YouTube] (https://youtu.be/6BgJKC1vAV4?si=M8pV4P7HxjNFi3l4)

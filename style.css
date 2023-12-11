@@ -47,7 +47,7 @@ h1 {
 
 p {
   color: black;
-  font-size: 2em;
+  font-size: .5em;
   width:60%;
   position: relative;
   text-align: center;
@@ -165,5 +165,89 @@ min-height: 100%;
 .five {
   background-color: #85012C;
   z-index:-1;
+  text-align: center;
+}
+
+.six {
+  background-image: url(DRose\ Buzzer\ Beater.mp4);
+  z-index: -1;
+  text-align: center;
+}
+
+.seven {
+  background-color: #85012C;
+  z-index: -1;
+  text-align: center;
+}
+
+.eight {
+  background-image: url(DRose\ Knicks\ \(1st\ season\).mp4);
+  z-index: -1;
+  text-align: center;
+}
+
+.nine {
+  background-color: #85012C;
+  z-index: -1;
+  text-align: center;
+}
+
+.ten {
+  background-image: url(DRose\ Cavs.mp4);
+  z-index: -1;
+  text-align: center;
+}
+
+.eleven {
+  background-color: #85012C;
+  z-index: -1;
+  text-align: center;
+}
+
+.twelve {
+  background-image: url(DRose\ 50\ Points.mp4);
+  z-index: -1;
+  text-align: center;
+}
+
+.thirteen {
+  background-color: #85012C;
+  z-index: -1;
+  text-align: center;
+}
+
+.fourteen {
+  background-image: url();
+  z-index: -1;
+  text-align: center;
+}
+
+.fifteen {
+  background-color: #85012C;
+  z-index: -1;
+  text-align: center;
+}
+
+.sixteen {
+  background-image: url();
+  z-index: -1;
+  text-align: center;
+}
+
+.seventeen {
+  background-color: #85012C;
+  z-index: -1;
+  text-align: center;
+}
+
+.eighteen {
+  background-image: url();
+  z-index: -1;
+  text-align: center;
+}
+
+.nineteen {
+  background-color: #85012C;
+  z-index: -1;
   text-align: center;
 }
