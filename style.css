@@ -38,16 +38,16 @@ h1 {
 
 .title {
   position:absolute;
-  font-size: 5em;
-  top: 50px;
+  font-size: 4.5em;
+  top: 60px;
   right: 50px;
   text-shadow: 1px 4px black ;
 }
 
 
 p {
-  color: black;
-  font-size: .5em;
+  color: white;
+  font-size: 2em;
   width:60%;
   position: relative;
   text-align: center;
@@ -110,8 +110,8 @@ p {
   color: white;
   font-size: 2.5em;
   position: absolute;
-  right: -375px;
-  top: 175px;
+  right: -300px;
+  top: 180px;
   text-shadow: 1px 4px black;
 }
 
@@ -175,9 +175,10 @@ min-height: 100%;
 }
 
 .seven {
-  background-color: #85012C;
+  background-color: #B8023D;
   z-index: -1;
   text-align: center;
+  font-size: .6em;
 }
 
 .eight {
@@ -187,7 +188,7 @@ min-height: 100%;
 }
 
 .nine {
-  background-color: #85012C;
+  background-color: #EB024D;
   z-index: -1;
   text-align: center;
 }
@@ -199,7 +200,7 @@ min-height: 100%;
 }
 
 .eleven {
-  background-color: #85012C;
+  background-color: #EB316D;
   z-index: -1;
   text-align: center;
 }
@@ -211,43 +212,65 @@ min-height: 100%;
 }
 
 .thirteen {
-  background-color: #85012C;
+  background-color: #FF3803;
   z-index: -1;
   text-align: center;
+  font-size: .8em;
 }
 
 .fourteen {
-  background-image: url();
+  background-image: url(Derrick\ Rose\ Game\ Winner!\ Detroit\ Pistons\ Beat\ New\ Orleans\ Pelicans\ on\ DRose\ Game-Winning\ Shot.mp4);
   z-index: -1;
   text-align: center;
 }
 
 .fifteen {
-  background-color: #85012C;
+  background-color: #FF4C1C;
   z-index: -1;
   text-align: center;
+  font-size: .8em;
 }
 
 .sixteen {
-  background-image: url();
+  background-image: url(DRose\ Knicks\ \(2nd\ Season\).mp4);
   z-index: -1;
   text-align: center;
 }
 
 .seventeen {
-  background-color: #85012C;
+  background-color: #FF6036;
   z-index: -1;
   text-align: center;
+  font-size: .8em;
 }
 
 .eighteen {
-  background-image: url();
+  background-image: url(DRose\ Grizzlies.mp4);
   z-index: -1;
   text-align: center;
 }
 
 .nineteen {
-  background-color: #85012C;
+  background-color: #FF744F;
   z-index: -1;
   text-align: center;
+}
+
+.twenty {
+  background-image: url(Derrick\ Rose\ Flex.jpeg);
+  z-index: -1;
+  text-align: left;
+}
+
+.bold {
+  font-family: 'ClashDisplay-Semibold';
+}
+
+.message {
+  color: #85012C;
+  font-size: 2em;
+  position: absolute;
+  left: 20px;
+  bottom: 5px;
+
 }
